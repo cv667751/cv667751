@@ -7,7 +7,7 @@ Dedicated and passionate secondary math teacher on a transformative journey, pur
 
 ## 🌱 I'm currently learning
 - Computational Methods & Software
-- Learning Python with the Python Crash Course by Eric Matthes.
+- Learning Python (Python Crash Course by Eric Matthes)
       
 ## 💻 Languages & Technologies 
 - Programming Languages: Java, C++, Python, SQL
