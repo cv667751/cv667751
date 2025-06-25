@@ -2,18 +2,14 @@
 Dedicated and passionate secondary math teacher on a transformative journey, pursing a degree in computer science. I'm blending my analytical teaching skills with a growing proficiency in coding. Ready to transition into the dynamic realm of software engineering. 
 
 ## 🔭 I'm currently working on
-- Phase 1 CS350 Project: Preparing a Software Requirements Specification (SRS) document.
-- ArrayLists in Java
-- Lists & Iterators in Java
+- Updating my Github to showcase my projects!
 
 ## 🌱 I'm currently learning
-- Software Engineering
-- Data Structures & Algorithms
-- C++
-- Python
+- Computational Methods & Software
+- Database Concepts 
       
 ## 💻 Languages & Technologies 
-- Programming Languages: Java, C++
+- Programming Languages: Java, C++, Python
 - Operating Systems: Unix 
 - Development Tools: Visual Studio Code, Eclipse
 
