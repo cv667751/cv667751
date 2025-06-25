@@ -1,4 +1,4 @@
-## ![github-header-image](https://github.com/user-attachments/assets/21ad9226-1c70-47fa-9f01-1d011e03da4a)
+## Hi there, my name is Crystal Rivas
 Dedicated and passionate secondary math teacher on a transformative journey, pursing a degree in computer science. I'm blending my analytical teaching skills with a growing proficiency in coding. Ready to transition into the dynamic realm of software engineering. 
 
 ## 🔭 I'm currently working on
