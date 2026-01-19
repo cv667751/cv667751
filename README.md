@@ -14,7 +14,7 @@ Dedicated and passionate secondary math teacher on a transformative journey, pur
 - Operating Systems: Unix 
 - Development Tools: Visual Studio Code, Eclipse
   
-
+[Top Languages](https://github-readme-stats.vercel.app)
 
 
 
