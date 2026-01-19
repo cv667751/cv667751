@@ -13,8 +13,8 @@ Dedicated and passionate secondary math teacher on a transformative journey, pur
 - Programming Languages: Java, C++, Python, SQL
 - Operating Systems: Unix 
 - Development Tools: Visual Studio Code, Eclipse
-  
-[Top Languages](https://github-readme-stats.vercel.app)
+
+[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=cv667751)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
